@@ -1,0 +1,59 @@
+.nav-bar {
+    height:386px ;
+    width:1280px ;
+
+}
+
+.zebra-nav {
+    font-size: 20px;
+    line-height: 20px;
+    color: #626262;
+    font-weight: bold;
+    font-family: "Helvetica Neue";
+    margin-top: 31px ;
+    margin-left: 148px;
+    }
+
+h1 { 
+    display: inline;
+    }
+
+#ze-gray {
+    color: gray ;
+}
+
+#bra-blue { 
+    color: #009E8E ;
+    margin-left: -5px;
+}
+.topnav {
+     overflow: hidden;
+     margin-top:-30px;
+     margin-left: 491px;
+}
+.topnav a {
+    float: inline-start;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 27px;
+}
+.topnav a:hover {
+    background-color: rgb(247, 6, 6);
+    color: black;
+}
+topnav a.active {
+    background-color: #4CAF50;
+    color: rgb(12, 10, 10);
+}
+
+img {
+    background-size: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    position: absolute;
+    opacity: 0.65;
+}
+
+
